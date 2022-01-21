@@ -9,7 +9,7 @@
 **Экзешник под винду - в папке App.**  
 ### WARNING! 💩💩💩 - code found!  
 
-**Поддержка тут:** https://www.patreon.com/crazzzypeter (взамен вы получаете ничего/выкинуть деньги)
+**Support here:** https://www.patreon.com/crazzzypeter (You don't get anything in return/throw money away)
 
 **Как протестировать без аккаунта Azure:**
 1) Открыть https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/
