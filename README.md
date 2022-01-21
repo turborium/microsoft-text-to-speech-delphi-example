@@ -1,5 +1,5 @@
 # microsoft-text-to-speech-delphi-example
-## Пример использования Microsoft Azure сервиса text-to-speech (около REST api)
+## Пример использования Microsoft Azure сервиса text-to-speech (преобразование текста в речь) (около REST api)
 
 **Скрин:**   
 ![scr](scr.png)
