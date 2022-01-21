@@ -1,8 +1,12 @@
 # microsoft-text-to-speech-delphi-example
-## Пример использования Microsoft Azure сервиса text-to-speech (преобразование текста в речь) (около REST api)
+## Пример использования Microsoft Azure сервиса text-to-speech 
+## Преобразование текста в речь (около REST api)
 
 **Скрин:**   
 ![scr](scr.png)
+
+**Проект использует Bass.dll для вопроизведения файла и стандартный THttpClient для доступа к API.**  
+**Экзешник под винду - в папке App.**  
 
 **Как протестировать без аккаунта Azure:**
 1) Открыть https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/
