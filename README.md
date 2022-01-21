@@ -6,12 +6,14 @@
 ![scr](scr.png)
 
 **Проект использует Bass.dll для вопроизведения файла и стандартный THttpClient для доступа к API.**  
-**Экзешник под винду - в папке App.**  
-### WARNING! 💩💩💩 - code found!  
+**Экзешник под винду - в папке App.**
 
-**Support here:** https://www.patreon.com/crazzzypeter (You don't get anything in return/throw money away)
-
-**Как протестировать без аккаунта Azure:**
+---
+### ☢️ WARNING! 💩💩💩 - code found!  😀🤔🔜🔥🤮    
+#### ⚠️ **Support here:** https://www.patreon.com/crazzzypeter (You don't get anything in return/throw money away)  
+#### ⚠️ **Стримы:** telegram: @crazzzypeter (https://t.me/crazzzypeter)  
+---
+**Как протестировать без аккаунта Azure:**  
 1) Открыть https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/
 2) Запустить отладчик сети (инструменты разработчика в вашем хромоге)
 3) Проиграть текст кнопкой "Play"
